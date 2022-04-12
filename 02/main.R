@@ -10,3 +10,5 @@ var2 <- 20L
 
 # text - type character
 var3 <- "Hello World!"
+print(var3)
+cat(var3)
