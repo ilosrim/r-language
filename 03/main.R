@@ -34,5 +34,9 @@ print(x<y) # nolint
 
 
 # Inputs
-input <- readLines('stdin') # nolint
-print(input)
+# input <- readLines('stdin') # nolint
+# print(input)
+
+z <- "Hello\nthere"
+print(z)
+cat(z)
