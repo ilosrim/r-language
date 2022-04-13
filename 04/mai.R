@@ -9,7 +9,7 @@ if(x>100){
 # Logical operators
 a <- 5
 b <- 4
-if(a>b & a>10){ # OR = |
+if(a>b & a>10){ # OR = | # nolint
   print("Yes")
 }else{
   print("No")
