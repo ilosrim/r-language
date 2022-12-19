@@ -1,8 +1,0 @@
----
-title: "R language project"
-description: "This is test description words"
----
-
-```{R include = FALSE}
-library(viridis)
-```
